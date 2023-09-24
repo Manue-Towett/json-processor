@@ -1,0 +1,19 @@
+JsonProcessor:INFO - *****JsonProcessor started*****
+JsonProcessor:INFO - Processing files...
+JsonProcessor:INFO - Processing file > soxy.com.json
+JsonProcessor:INFO - Comparing to soxy.com.json
+JsonProcessor:INFO - Products before: 1 || Products after: 0
+JsonProcessor:INFO - Saving filtered assets...
+JsonProcessor:INFO - Filtered assets saved to soxy.com_filtered.json
+JsonProcessor:INFO - Processing file > www.als.com_6.json
+JsonProcessor:INFO - Comparing to www.als.com_0.json
+JsonProcessor:INFO - Products before: 877 || Products after: 797
+JsonProcessor:INFO - Comparing to www.als.com_1.json
+JsonProcessor:INFO - Products before: 797 || Products after: 724
+JsonProcessor:INFO - Comparing to www.als.com_2.json
+JsonProcessor:INFO - Products before: 724 || Products after: 656
+JsonProcessor:INFO - Saving filtered assets...
+JsonProcessor:INFO - Filtered assets saved to www.als.com_6_filtered.json
+JsonProcessor:INFO - Saving status...
+JsonProcessor:INFO - Status saved.
+JsonProcessor:INFO - Done

@@ -1,0 +1,69 @@
+[
+    {
+        "url": "https://1999beauty.com/collections/shop/products/cream-highlight-stick-1",
+        "canonicalUrl": "https://1999beauty.com/products/cream-highlight-stick-1",
+        "probability": 0.9987219,
+        "name": "Cream Highlight Stick",
+        "offers": [
+            {
+                "price": "34.0",
+                "currency": "USD"
+            }
+        ],
+        "sku": "7716230103210",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/products/Highlight3_1080x.jpg?v=1695125845",
+        "images": [
+            "https://1999beauty.com/cdn/shop/products/Highlight2_1080x.jpg?v=1695125845",
+            "https://1999beauty.com/cdn/shop/files/Highlight-Perla-transparent_1080x.png?v=1695125845",
+            "https://1999beauty.com/cdn/shop/products/Highlight3_1080x.jpg?v=1695125845",
+            "https://1999beauty.com/cdn/shop/products/Highlight1_1080x.jpg?v=1695125845",
+            "https://1999beauty.com/cdn/shop/products/CHS002-1_1080x.jpg?v=1695125845",
+            "https://1999beauty.com/cdn/shop/products/CHS001-2_1080x.jpg?v=1695125845",
+            "https://cld.accentuate.io/7716230103210/1681309633181/CHS001-7.jpg?v=1681309633181&options=w_650"
+        ],
+        "description": "A creamy highlighting stick that gives you a glowing radiance without heavy sparkle.\n\nThis smooth formula glides onto skin and blends seamlessly to create a luminous finish. The super creamy texture applies with ease and blends for a finish that looks like skin. The light-weight formula is designed to work across different skin textures and tones, and does not settle into pores or fine lines.\n\nPERLA is a neutral-toned pink.\nMIELE is golden-nectar.\n\nShopping from Canada? Click here.",
+        "descriptionHtml": "<article>\n\n<p>A creamy highlighting stick that gives you a glowing\u00a0radiance without heavy sparkle.</p>\n\n<p>This smooth formula glides onto skin and blends seamlessly to create a luminous finish. The super creamy texture applies with ease and blends for a finish that looks like skin. The light-weight formula is designed to work across different skin textures and tones, and does not settle into pores or fine lines.</p>\n\n<p>PERLA is a neutral-toned pink.\u00a0<br> MIELE\u00a0is golden-nectar.</p>\n\n<p>Shopping from Canada? Click <a href=\"https://1999beauty.ca/products/cream-highlight-stick\">here</a>.</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "color",
+                "value": "\u2014 PERLA"
+            }
+        ],
+        "aggregateRating": {
+            "ratingValue": 4.8,
+            "reviewCount": 6
+        },
+        "color": "\u2014 PERLA"
+    },
+    {
+        "url": "https://1999beauty.com/collections/shop/products/water-colour-tint",
+        "canonicalUrl": "https://1999beauty.com/products/water-colour-tint",
+        "probability": 0.9994036,
+        "name": "Water Colour Tint",
+        "offers": [
+            {
+                "price": "26.0",
+                "currency": "USD",
+                "availability": "InStock"
+            }
+        ],
+        "sku": "7818155065514",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/files/WTC004-2_1080x.jpg?v=1692996003",
+        "images": [
+            "https://1999beauty.com/cdn/shop/files/WTC004-2_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/Water-Colour-Group_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/WCT001-5_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/WCT004-1_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/WCT004-3_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/WCT001-7_1080x.jpg?v=1692996003",
+            "https://1999beauty.com/cdn/shop/files/IMG_7373copy_1080x.jpg?v=1692996003",
+            "https://cld.accentuate.io/7818155065514/1692996161990/IMG_7373-copy.JPG?v=1692996199992&options=w_650"
+        ],
+        "description": "A unique water-balm hybrid formula for a sheer, weightless wash of colour on lips and cheeks, with a skin-like finish. The buildable formula can be layered for intensity.\n\nPARNA is rose petal pink\nMALNA is cool-pink mauve\nTEGLA is warm muted-brick\nTINTA is cool-toned inky plum",
+        "descriptionHtml": "<article>\n\n<p>A unique water-balm hybrid formula for a sheer, weightless wash of colour on lips and cheeks, with a skin-like finish. The buildable formula can be layered for intensity.</p>\n\n<p>PARNA is rose petal pink<br>MALNA is\u00a0cool-pink mauve\u00a0<br>TEGLA is\u00a0warm muted-brick\u00a0<br>TINTA is cool-toned inky plum</p>\n\n</article>",
+        "color": "PARNA",
+        "size": "PARNA"
+    }
+]

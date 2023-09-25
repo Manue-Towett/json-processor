@@ -1,0 +1,108 @@
+[
+    {
+        "url": "https://1999beauty.com/collections/essentials/products/precision-pencil-sharpener",
+        "canonicalUrl": "https://1999beauty.com/products/precision-pencil-sharpener",
+        "probability": 0.9989768,
+        "name": "Precision Pencil Sharpener",
+        "offers": [
+            {
+                "price": "6.0",
+                "currency": "USD",
+                "availability": "OutOfStock"
+            }
+        ],
+        "sku": "4784358162569",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/products/1999-starter-set-voros-glass-product-01_1080x.jpg?v=1587780309",
+        "images": [
+            "https://1999beauty.com/cdn/shop/products/1999-precision-pencil-sharpener-product-01_1080x.png?v=1588112582",
+            "https://1999beauty.com/cdn/shop/products/1999-starter-set-voros-glass-product-01_1080x.jpg?v=1587780309"
+        ],
+        "description": "Manufactured specifically for a cosmetic pencil, this Dynamic Torsion Action blade pencil sharpener creates the perfect point. It allows you to individualize the tip from short and blunt to sharp and pointed.\n\nPair with Precision Colour Pencil.\n\nMade in Ireland with a German-made blade.",
+        "descriptionHtml": "<article>\n\n<p>Manufactured specifically for a cosmetic pencil, this Dynamic Torsion Action blade pencil sharpener creates the perfect point. It allows you to individualize the tip from short and blunt to sharp and pointed.</p>\n\n<p>Pair with <a href=\"https://1999beauty.com/products/precision-colour-pencil\" title=\"19/99 Precision Colour Pencil Voros\">Precision Colour Pencil</a>.</p>\n\n<p>Made in Ireland with a German-made blade.</p>\n\n</article>",
+        "aggregateRating": {
+            "ratingValue": 5.0,
+            "reviewCount": 5
+        },
+        "color": "CLEAR",
+        "_key": "688060/1/1/1"
+    },
+    {
+        "url": "https://1999beauty.com/collections/essentials/products/compact-mirror",
+        "canonicalUrl": "https://1999beauty.com/products/compact-mirror",
+        "probability": 0.9988586,
+        "name": "Compact Mirror",
+        "offers": [
+            {
+                "price": "18.0",
+                "currency": "USD",
+                "availability": "InStock"
+            }
+        ],
+        "sku": "7673556304042",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/products/Mirror3_1080x.jpg?v=1674690459",
+        "images": [
+            "https://1999beauty.com/cdn/shop/products/Mirror3_1080x.jpg?v=1674690459",
+            "https://1999beauty.com/cdn/shop/products/Mirror3-2_1080x.jpg?v=1674690459",
+            "https://1999beauty.com/cdn/shop/products/IMG_5782copy_1080x.jpg?v=1674923010"
+        ],
+        "description": "Limited edition compact mirror with magnetic closure. External vegan leather. Two sided 1x/10x mirrors for on-the-go makeup application and touch ups for makeup that lives with you.",
+        "descriptionHtml": "<article>\n\n<p>Limited edition compact mirror with magnetic closure. External vegan leather. Two sided 1x/10x mirrors for on-the-go makeup application and touch ups for makeup that lives with you.\u00a0<br></p>\n\n</article>",
+        "color": "WHITE",
+        "size": "WHITE",
+        "_key": "688060/1/1/2"
+    },
+    {
+        "url": "https://1999beauty.com/collections/essentials/products/tapered-multi-brush",
+        "canonicalUrl": "https://1999beauty.com/products/tapered-multi-brush",
+        "probability": 0.9991504,
+        "name": "Tapered Multi-Brush",
+        "offers": [
+            {
+                "price": "30.0",
+                "currency": "USD"
+            }
+        ],
+        "sku": "5789805150365",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/products/1999-tapered-multi-brush_1080x.jpg?v=1615931154",
+        "images": [
+            "https://1999beauty.com/cdn/shop/products/Brush_Closeup_colour_1080x.jpg?v=1629820211",
+            "https://1999beauty.com/cdn/shop/products/1999-tapered-multi-brush_1080x.jpg?v=1615931154",
+            "https://1999beauty.com/cdn/shop/products/Brush_Closeup_1080x.jpg?v=1615931162",
+            "https://1999beauty.com/cdn/shop/products/1999-brush-swatch_1080x.jpg?v=1629820203",
+            "https://1999beauty.com/cdn/shop/products/20200206_1999_2048-1copy_1080x.jpg?v=1629820203",
+            "https://www.youtube.com/embed/z2-ysqvD9zs?autohide=0&autoplay=0&branding=0&cc_load_policy=0&controls=1&fs=0&iv_load_policy=3&modestbranding=1&playsinline=1&quality=hd720&rel=0&showinfo=0&wmode=opaque&enablejsapi=1&origin=https%3A%2F%2F1999beauty.com&widgetid=1"
+        ],
+        "description": "he perfect addition to the Precision Colour Pencil. Use for blending, diffusing or defining your colour on lids, lips, and cheeks. Bristles are packed at medium density for easy control of product, and blending. This multipurpose brush is made in Germany with synthetic fibre bristles and a natural wooden handle.",
+        "descriptionHtml": "<article>\n\n<p>he perfect addition to the Precision Colour Pencil. Use for blending, diffusing or defining your colour on lids, lips, and cheeks.\u00a0Bristles are packed at medium density for easy control of product, and blending.\u00a0This multipurpose brush is made in Germany with synthetic fibre bristles and a natural wooden handle.</p>\n\n</article>",
+        "aggregateRating": {
+            "ratingValue": 5.0,
+            "reviewCount": 2
+        },
+        "_key": "688060/1/1/3"
+    },
+    {
+        "url": "https://1999beauty.com/collections/essentials/products/soft-focus-blending-brush",
+        "canonicalUrl": "https://1999beauty.com/products/soft-focus-blending-brush",
+        "probability": 0.99769163,
+        "name": "Soft Focus Blending Brush",
+        "offers": [
+            {
+                "price": "30.0",
+                "currency": "USD",
+                "availability": "InStock"
+            }
+        ],
+        "sku": "7728012099754",
+        "brand": "19/99 Beauty",
+        "mainImage": "https://1999beauty.com/cdn/shop/files/SF-brush-2copy_1080x.jpg?v=1687789757",
+        "images": [
+            "https://1999beauty.com/cdn/shop/files/SF-brush-2copy_1080x.jpg?v=1687789757"
+        ],
+        "description": "The perfect makeup brush for blending makeup seamlessly into skin. Use to effortlessly blend CREAM HIGHLIGHT & CONTOUR STICKS for a soft, diffused finish.\n\nSynthetic bristles. Wood handle. Cruelty-free.\n\nMade in the USA.\n\nShopping from Canada? Click here.",
+        "descriptionHtml": "<article>\n\n<p>The perfect makeup brush for blending makeup seamlessly into skin. Use to effortlessly blend CREAM HIGHLIGHT &amp; CONTOUR STICKS for a soft, diffused finish.</p>\n\n<p>Synthetic bristles. Wood handle. Cruelty-free.</p>\n\n<p>Made in the USA.</p>\n\n<p>Shopping from Canada? Click <a href=\"https://1999beauty.ca/products/soft-focus-blending-brush\">here</a>.</p>\n\n</article>",
+        "_key": "688060/1/1/4"
+    }
+]

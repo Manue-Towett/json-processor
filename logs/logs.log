@@ -1,5 +1,50 @@
 JsonProcessor:INFO - *****JsonProcessor started*****
 JsonProcessor:INFO - Processing files...
+JsonProcessor:INFO - Processing file > 1999beauty.com.json
+JsonProcessor:INFO - Comparing to 1999beauty.com.json
+JsonProcessor:INFO - Products before: 26 || Products after: 18
+JsonProcessor:INFO - Comparing to 1999beauty.com_1.json
+JsonProcessor:INFO - Products before: 18 || Products after: 14
+JsonProcessor:INFO - Comparing to 1999beauty.com_2.json
+JsonProcessor:INFO - Products before: 14 || Products after: 4
+JsonProcessor:INFO - Comparing to 1999beauty.com_3.json
+JsonProcessor:INFO - Products before: 4 || Products after: 2
+JsonProcessor:INFO - Saving filtered assets...
+JsonProcessor:INFO - Filtered assets saved to 1999beauty.com_filtered.json
+JsonProcessor:INFO - Processing file > 786cosmetics.com_2.json
+JsonProcessor:INFO - Comparing to 786cosmetics.com.json
+JsonProcessor:INFO - Products before: 94 || Products after: 94
+JsonProcessor:INFO - Comparing to 786cosmetics.com_1.json
+JsonProcessor:INFO - Products before: 94 || Products after: 94
+JsonProcessor:INFO - Comparing to 786cosmetics.com_2.json
+JsonProcessor:INFO - Products before: 94 || Products after: 88
+JsonProcessor:INFO - Comparing to 786cosmetics.com_3.json
+JsonProcessor:INFO - Products before: 88 || Products after: 88
+JsonProcessor:INFO - Comparing to 786cosmetics.com_4.json
+JsonProcessor:INFO - Products before: 88 || Products after: 88
+JsonProcessor:INFO - Comparing to 786cosmetics.com_5.json
+JsonProcessor:INFO - Products before: 88 || Products after: 88
+JsonProcessor:INFO - Saving filtered assets...
+JsonProcessor:INFO - Filtered assets saved to 786cosmetics.com_2_filtered.json
+JsonProcessor:INFO - Processing file > beautysociety.com_9.json
+JsonProcessor:INFO - Comparing to beautysociety.com.json
+JsonProcessor:INFO - Products before: 17 || Products after: 15
+JsonProcessor:INFO - Comparing to beautysociety.com_1.json
+JsonProcessor:INFO - Products before: 15 || Products after: 13
+JsonProcessor:INFO - Comparing to beautysociety.com_2.json
+JsonProcessor:INFO - Products before: 13 || Products after: 13
+JsonProcessor:INFO - Comparing to beautysociety.com_3.json
+JsonProcessor:INFO - Products before: 13 || Products after: 11
+JsonProcessor:INFO - Comparing to beautysociety.com_4.json
+JsonProcessor:INFO - Products before: 11 || Products after: 11
+JsonProcessor:INFO - Comparing to beautysociety.com_5.json
+JsonProcessor:INFO - Products before: 11 || Products after: 11
+JsonProcessor:INFO - Comparing to beautysociety.com_6.json
+JsonProcessor:INFO - Products before: 11 || Products after: 11
+JsonProcessor:INFO - Comparing to beautysociety.com_7.json
+JsonProcessor:INFO - Products before: 11 || Products after: 11
+JsonProcessor:INFO - Saving filtered assets...
+JsonProcessor:INFO - Filtered assets saved to beautysociety.com_9_filtered.json
 JsonProcessor:INFO - Processing file > soxy.com.json
 JsonProcessor:INFO - Comparing to soxy.com.json
 JsonProcessor:INFO - Products before: 1 || Products after: 0

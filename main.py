@@ -123,7 +123,7 @@ class JsonProcessor:
 
                 old_products = self.__read_json(file_path=old_file)
 
-                new_products = []
+                duplicated_products = []
 
                 for new_product in self.products:
                     product = Product(new_product)
@@ -132,10 +132,9 @@ class JsonProcessor:
                         _old_product = Product(old_product)
 
                         if product.name == _old_product.name and product.price == _old_product.price:
-                            new_products.append(product.product)
+                            duplicated_products.append(product.product)
 
-                for product in new_products:
-                    self.products.remove(product)
+                [self.products.remove(product) for product in duplicated_products if product in self.products]
 
                 self.logger.info("Products before: %s || Products after: %s" % (products_before, len(self.products)))
             

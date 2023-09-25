@@ -1,0 +1,875 @@
+[
+    {
+        "url": "https://beautysociety.com/productdetail/SCULPT",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.7243327,
+        "name": "Sculpting Brush",
+        "offers": [
+            {
+                "price": "26.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "SCULPT",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Sculpting Brush"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Sculpted Brush.jpg",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Sculpted Brush.jpg"
+        ],
+        "description": "Experience sculpting perfection with this vegan synthetic makeup brush, meticulously crafted with densely packed bristles that are expertly cut at an angle. Its flat surface ensures precise control, allowing for a fast and flawless application every time.",
+        "descriptionHtml": "<article>\n\n<p>Experience sculpting perfection with this vegan synthetic makeup brush, meticulously crafted with densely packed bristles that are expertly cut at an angle. Its flat surface ensures precise control, allowing for a fast and flawless application every time.</p>\n\n</article>",
+        "_key": "688050/1/1/1"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/WIN",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99148834,
+        "name": "Winning Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Winning Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Winning/12. Winning (F).JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Winning/12. Winning (F).JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/winningmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG"
+        ],
+        "description": "Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.",
+        "descriptionHtml": "<article>\n\n<p>Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.</p>\n\n</article>",
+        "_key": "688050/1/1/2"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/SILK",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99450314,
+        "name": "Cream Contours - Timeless Face Sticks",
+        "offers": [
+            {
+                "price": "46.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "SILK",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Cream Contours - Timeless Face Sticks"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/silk.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/Silk.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/silk.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/Contour Swatch.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/Face Sticks Shade Chart.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/contour1.png"
+        ],
+        "description": "Timeless Face Sticks fuses skincare and cosmetics to naturally sculpt and highlight your features. Formulated with anti-aging ingredients that work to hydrate, this creamy texture melts onto cheeks for a pop of buildable color.",
+        "descriptionHtml": "<article>\n\n<p>Timeless Face Sticks fuses skincare and cosmetics to naturally sculpt and highlight your features. Formulated with anti-aging ingredients that work to hydrate, this creamy texture melts onto cheeks for a pop of buildable color.</p>\n\n</article>",
+        "color": "Rewards 46",
+        "_key": "688050/1/1/3"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/BLOOM",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.996682,
+        "name": "BLOOM - Sheer Joy",
+        "offers": [
+            {
+                "price": "42.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "BLOOM",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "BLOOM - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/bloom.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDbloomgroup.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDbloom2.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3D401E02-CCDA-48AC-9DFB-06666F0386F3.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/bloom.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDbloom1.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3shades.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDbloom.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/DSC_0183.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/bloom2.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/Bloom swatch.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "BLOOM - Light Pink blush shade.\n\nSheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>BLOOM - Light Pink blush shade.</em></p>\n\n<p>Sheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "BLOOM"
+            }
+        ],
+        "_key": "688050/1/1/4"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/CHIC",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9931629,
+        "name": "CHIC - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "CHIC",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "CHIC - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Chicbig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/CHIC/CHIQUE SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/CHIC/40213D67-B684-4125-B285-D1CFA657F78F.jpeg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Chicbig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.",
+        "descriptionHtml": "<article>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n</article>",
+        "_key": "688050/1/1/5"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/ALLUR",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9955389,
+        "name": "Alluring Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "ALLUR",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Alluring Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Alluring/9. Alluring (A).JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/alluringmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Alluring/9. Alluring (A).JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Stunning/Screen Shot 2022-04-04 at 3.04.13 PM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg"
+        ],
+        "description": "perfect liquid foundation\n\nAlluring - a light yellow undertone\n\nFormulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.\n\n.9 fl oz\n\nIngredients & Directions\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for everyone.",
+        "descriptionHtml": "<article>\n\n<p><strong>perfect liquid foundation</strong></p>\n\n<p><br>Alluring - a light yellow undertone</p>\n\n<p>Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.</p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h2><strong>Ingredients &amp; Directions\n\n </strong></h2>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong>\n<br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h2><strong>Who Should Use Perfect 10\n\n        </strong></h2>\n\n<p><strong>Perfect 10 liquid foundation is great for everyone.\n <br><br></strong></p>\n\n</article>",
+        "_key": "688050/1/1/6"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/SURREAL",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9962053,
+        "name": "SURREAL - Sheer Joy",
+        "offers": [
+            {
+                "price": "42.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "SURREAL",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "SURREAL - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/surreal.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDsurrealgroup.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3D401E02-CCDA-48AC-9DFB-06666F0386F3.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDsurreal2.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDsurreal1.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/surreal.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDsurreal.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/surreal2.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3shades.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/DSC_0183.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/surreal swatch (1).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "SURREAL - Deep Pink blush shade.\n\nSheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>SURREAL - Deep Pink blush shade.</em></p>\n\n<p>Sheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "_key": "688050/1/1/7"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/HONEY",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9937186,
+        "name": "HONEY - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "HONEY",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "HONEY - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/honeybig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/HONEY/HONEY SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/HONEY/Tori P HONEY.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/honeybig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "HONEY - Medium shade, comparable to Perfect 10 Foundation in the shade FABULOUS\n\nSheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>HONEY - Medium shade, comparable to Perfect 10 Foundation in the shade\u00a0<strong>FABULOUS</strong></em></p>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "_key": "688050/1/1/8"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/BOSS",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9954353,
+        "name": "BOSS - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "BOSS",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "BOSS - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/bossbig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/BOSS SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/bossbig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/IMG_1971.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "BOSS - Darkest shade, comparable to Perfect 10 Foundation in the shade CAPTIVATING\n\nSheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>BOSS - Darkest shade, comparable to Perfect 10 Foundation in the shade\u00a0<strong>CAPTIVATING</strong></em></p>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "BOSS"
+            }
+        ],
+        "_key": "688050/1/1/9"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/ANGEL",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9920661,
+        "name": "ANGEL - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "ANGEL",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "ANGEL - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/angelbig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/ANGEL SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/angelbig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/70AF9F7D-D9FB-4524-AF8C-69DD40878D22.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png"
+        ],
+        "description": "ANGEL - Medium-dark shade, comparable to Perfect 10 Foundation in the shade GLORIOUS\n\nSheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>ANGEL - Medium-dark shade, comparable to Perfect 10 Foundation in the shade\u00a0<strong>GLORIOUS</strong></em></p>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "ANGEL"
+            }
+        ],
+        "_key": "688050/1/1/10"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/CANDID",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99695086,
+        "name": "CANDID - Sheer Joy",
+        "offers": [
+            {
+                "price": "42.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "CANDID",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "CANDID - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/Candid.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDcandidgroup.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDcandid3.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3D401E02-CCDA-48AC-9DFB-06666F0386F3.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/Candid.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3shades.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/candid2.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/candid swatch (1).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/DSC_0183.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDcandid.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/EDITEDcandid1.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "CANDID - Coral Pink blush shade.\n\nSheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>CANDID - Coral Pink blush shade.</em></p>\n\n<p>Sheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "_key": "688050/1/1/11"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/STUN",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9891538,
+        "name": "Stunning - Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Stunning - Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Stunning/11. Stunning (C).JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Stunning/11. Stunning (C).JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Stunning/Screen Shot 2022-04-04 at 3.04.13 PM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/stunningmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg"
+        ],
+        "description": "perfect liquid foundation\n\nStunning- lightest shade with a neutral undertone\n\nFormulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.\n\n.9 fl oz\n\nIngredients & Directions\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for eall skintypes.",
+        "descriptionHtml": "<article>\n\n<p><strong>perfect liquid foundation</strong> <br></p>\n\n<p><em>Stunning- lightest shade with a neutral undertone</em></p>\n\n<p>Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.</p>\n\n<p><br></p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h2><strong>Ingredients &amp; Directions\n\n </strong></h2>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong>\n<br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h2><strong>Who Should Use Perfect 10\n\n        </strong></h2>\n\n<p><strong>Perfect 10 liquid foundation is great for eall skintypes.\n <br><br></strong></p>\n\n<p><br></p>\n\n</article>",
+        "_key": "688050/1/1/12"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/Delight",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99033874,
+        "name": "Delight Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "DEL",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Delight Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/10. Delight.JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/UPDATED%20Product%20Images/delight2.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/10. Delight.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/delightmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg"
+        ],
+        "description": "Delight- lightest shade with a rosey undertone\n\nWhat It Is\n\nPerfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.\n\nWhat It Does\n\nWe don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients. Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.\n\nHow To Use It\n\nApply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.\n\nWho Should Use It\n\nPerfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.\n\n.9 fl oz\n\nIngredients\n\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for eall skintypes.",
+        "descriptionHtml": "<article>\n\n<p><em><strong>Delight- lightest shade with a rosey undertone</strong></em><br></p>\n\n<h2 dir=\"ltr\">What It Is</h2>\n\n<p dir=\"ltr\">Perfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.</p>\n\n<p dir=\"ltr\">What It Does</p>\n\n<p dir=\"ltr\">We don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients.\u00a0 Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.</p>\n\n<h2 dir=\"ltr\">How To Use It</h2>\n\n<p dir=\"ltr\">Apply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.</p>\n\n<h2 dir=\"ltr\">Who Should Use It</h2>\n\n<p dir=\"ltr\">Perfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.</p>\n\n<p><br></p>\n\n<p><br></p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h5><strong>Ingredients</strong></h5>\n\n<p><br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h5><strong>Who Should Use Perfect 10\n\n        </strong></h5>\n\n<p><strong>Perfect 10 liquid foundation is great for eall skintypes.\n <br><br></strong></p>\n\n<p><br></p>\n\n</article>",
+        "_key": "688050/1/1/13"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/Absolute",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99165034,
+        "name": "Absolute Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "ABS",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Absolute Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Absolute/7. Absolute.JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/UPDATED%20Product%20Images/absolute2.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Absolute/7. Absolute.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/absolutemodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg"
+        ],
+        "description": "Absolute - Medium to medium light neutral shade\n\nWhat It Is\n\nPerfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.\n\nWhat It Does\n\nWe don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients. Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.\n\nHow To Use It\n\nApply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.\n\nWho Should Use It\n\nPerfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.\n\n.9 fl oz\n\nIngredients & Directions\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for everyone.",
+        "descriptionHtml": "<article>\n\n<p><strong><em>Absolute - Medium to medium light neutral shade</em></strong></p>\n\n<h2 dir=\"ltr\">What It Is</h2>\n\n<p dir=\"ltr\">Perfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.</p>\n\n<p dir=\"ltr\">What It Does</p>\n\n<p dir=\"ltr\">We don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients.\u00a0 Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.</p>\n\n<h2 dir=\"ltr\">How To Use It</h2>\n\n<p dir=\"ltr\">Apply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.</p>\n\n<h2 dir=\"ltr\">Who Should Use It</h2>\n\n<p dir=\"ltr\">Perfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.</p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h5><strong>Ingredients &amp; Directions\n\n </strong></h5>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong>\n<br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h5><strong>Who Should Use Perfect 10\n\n        </strong></h5>\n\n<p><strong>Perfect 10 liquid foundation is great for everyone.\n <br><br></strong></p>\n\n</article>",
+        "_key": "688050/1/1/14"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/Glorious",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9959495,
+        "name": "Glorious Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "GLO",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Glorious Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Glorious/2. Glorious.JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/UPDATED%20Product%20Images/glorious2.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Glorious/2. Glorious.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/gloriousmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg"
+        ],
+        "description": "perfect liquid foundation\n\nGlorious- Medium-dark shade with a neutral undertone\n\nFormulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.",
+        "descriptionHtml": "<article>\n\n<p><strong>perfect liquid foundation</strong> <br></p>\n\n<p><em>Glorious- Medium-dark shade with a neutral undertone</em></p>\n\n<p>Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.</p>\n\n</article>",
+        "_key": "688050/1/1/15"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/Dazzling",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9924036,
+        "name": "Dazzling Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "DAZ",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Dazzling Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Dazzling/8. Dazzling.JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/UPDATED%20Product%20Images/dazzling2.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/dazzlingmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Dazzling/8. Dazzling.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg"
+        ],
+        "description": "Dazzling - a light neutral to rosey undertone\n\nWhat It Is\n\nPerfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.\n\nWhat It Does\n\nWe don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients. Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.\n\nHow To Use It\n\nApply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.\n\nWho Should Use It\n\nPerfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.\n\n.9 fl oz\n\nIngredients & Directions\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for everyone.",
+        "descriptionHtml": "<article>\n\n<p><strong><em>Dazzling - a light neutral to rosey undertone</em></strong></p>\n\n<h2 dir=\"ltr\">What It Is</h2>\n\n<p dir=\"ltr\">Perfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.</p>\n\n<p dir=\"ltr\">What It Does</p>\n\n<p dir=\"ltr\">We don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients.\u00a0 Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.</p>\n\n<h2 dir=\"ltr\">How To Use It</h2>\n\n<p dir=\"ltr\">Apply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.</p>\n\n<h2 dir=\"ltr\">Who Should Use It</h2>\n\n<p dir=\"ltr\">Perfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.</p>\n\n<p><br><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h5><strong>Ingredients &amp; Directions\n\n </strong></h5>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong>\n<br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h5><strong>Who Should Use Perfect 10\n\n        </strong></h5>\n\n<p><strong>Perfect 10 liquid foundation is great for everyone.\n <br><br></strong></p>\n\n</article>",
+        "_key": "688050/1/1/16"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/MAG",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99591076,
+        "name": "Magnetic Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "MAG",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Magnetic Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Magnetic/4. Magnetic (B).JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/magneticmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Magnetic/4. Magnetic (B).JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Stunning/Screen Shot 2022-04-04 at 3.04.13 PM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg"
+        ],
+        "description": "perfect liquid foundation\n\nMagnetic- Medium-dark shade with a yellow undertone\n\nFormulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.\n\n.9 fl oz\n\nIngredients & Directions\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).\n\nWho Should Use Perfect 10\n\nPerfect 10 liquid foundation is great for everyone.",
+        "descriptionHtml": "<article>\n\n<p><strong>perfect liquid foundation</strong> <br></p>\n\n<p><em>Magnetic- Medium-dark shade with a yellow undertone</em></p>\n\n<p>Formulated with an unheard-of ten age-defying ingredients, including Apple Stem Cell Technology. This oil-free, color correcting, flawless, long-wearing liquid foundation is beautiful and highly beneficial for your skin. 'Perfect 10' contains Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine. This product will forever be your favorite liquid foundation.</p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h2><strong>Ingredients &amp; Directions\n\n </strong></h2>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong>\n<br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<h2><strong>Who Should Use Perfect 10\n\n        </strong></h2>\n\n<p><strong>Perfect 10 liquid foundation is great for everyone.\n <br><br></strong></p>\n\n</article>",
+        "_key": "688050/1/1/17"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/BLISS",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9951094,
+        "name": "BLISS - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "BLISS",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "BLISS - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Blissbig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BLISS/BLISS SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BLISS/BLISS.jpeg",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Blissbig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "BLISS - Second lightest shade, comparable to Perfect 10 Foundation in the shade DAZZLING\n\nSheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>BLISS - Second lightest shade, comparable to Perfect 10 Foundation in the shade\u00a0<strong>DAZZLING</strong></em></p>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "BLISS"
+            }
+        ],
+        "_key": "688050/1/1/18"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/RADIANT",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.99405754,
+        "name": "RADIANT - Sheer Joy",
+        "offers": [
+            {
+                "price": "42.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "RADIANT",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "RADIANT - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/sheer joy radient.jpg",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/IMG_1091.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/radient1.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/Radient swatch.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/sheer joy radient.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Sheer Joy/3D401E02-CCDA-48AC-9DFB-06666F0386F3.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "Radiant - Deep Rose/Berry shade\n\nSheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>Radiant - Deep Rose/Berry shade</em></p>\n\n<p>Sheer Joy Blush is an age-defying formula that combines a light-to-medium coverage blush with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional makeup, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "_key": "688050/1/1/19"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/CHROMA",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.983325,
+        "name": "Cream Highlighters - Timeless Face Sticks",
+        "offers": [
+            {
+                "price": "46.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "CHROMA",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Cream Highlighters - Timeless Face Sticks"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/chroma.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/Chroma.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/highlight swatch.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/chroma.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/face sticks/Face Sticks Shade Chart.jpg"
+        ],
+        "description": "Timeless Face Sticks fuses skincare and cosmetics to naturally sculpt and highlight your features. Formulated with anti-aging ingredients that work to hydrate, this creamy texture melts onto cheeks for a pop of buildable color.",
+        "descriptionHtml": "<article>\n\n<p>Timeless Face Sticks fuses skincare and cosmetics to naturally sculpt and highlight your features. Formulated with anti-aging ingredients that work to hydrate, this creamy texture melts onto cheeks for a pop of buildable color.</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "CHROMA"
+            }
+        ],
+        "color": "Rewards 46",
+        "_key": "688050/1/1/20"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/CHARM",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9911628,
+        "name": "CHARM - Sheer Joy",
+        "offers": [
+            {
+                "price": "48.5",
+                "currency": "$"
+            }
+        ],
+        "sku": "CHARM",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "CHARM - Sheer Joy"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Charmbig.png",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/BOSS/Untitled design (39).png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/ANGEL/CHARM.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/CHARM/CHARM SWATCH copy.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Sheer joy/Charmbig.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/CHARM/Charm.jpeg",
+            "https://beautysociety.blob.core.windows.net/images-prod/product guide/Sheer Joy Product Sheet.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Sheer Joy.jpg"
+        ],
+        "description": "Charm - Lightest shade, comparable to Perfect 10 Foundation in the shade DELIGHT\n\nSheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.\n\n1 fl. oz. bottle",
+        "descriptionHtml": "<article>\n\n<p><em>Charm - Lightest shade, comparable to Perfect 10 Foundation in the shade\u00a0<strong>DELIGHT</strong></em></p>\n\n<p>Sheer Joy is an age-defying formula that combines a light-to-medium coverage foundation with a powerful serum. Packed with anti-aging and anti-inflammatory compounds, this tinted serum soothes skin while helping minimize the appearance of fine lines, wrinkles, and other signs of aging. Potent moisturizers leave skin hydrated without clogging pores. This breathable formula doesn't have the heavy feel of a traditional foundation, making it suitable for acne-prone skin. Sheer Joy is a must-have for busy individuals who want to boost natural glow and fight aging in one easy step.</p>\n\n<p>1 fl. oz. bottle</p>\n\n</article>",
+        "additionalProperty": [
+            {
+                "name": "sku",
+                "value": "CHARM"
+            }
+        ],
+        "_key": "688050/1/1/21"
+    },
+    {
+        "url": "https://beautysociety.com/productdetail/Fabulous",
+        "canonicalUrl": "https://beautysociety.com/productdetail/",
+        "probability": 0.9908279,
+        "name": "Fabulous Perfect 10 Foundation",
+        "offers": [
+            {
+                "price": "38.0",
+                "currency": "$"
+            }
+        ],
+        "sku": "FAB",
+        "breadcrumbs": [
+            {
+                "name": "Home"
+            },
+            {
+                "name": "Shop",
+                "link": "https://beautysociety.com/order"
+            },
+            {
+                "name": "Fabulous Perfect 10 Foundation"
+            }
+        ],
+        "mainImage": "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Fabulous/5. Fabulous.JPG",
+        "images": [
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Delight/IMG_5382.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/UPDATED%20Product%20Images/fabulous2.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/Fabulous/5. Fabulous.JPG",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/fabulousmodel.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/Product Images/PERFECT10/WINNING.png",
+            "https://beautysociety.blob.core.windows.net/images-prod/61603 Beauty Society Advisor Product Guide - Perfect 10.jpg",
+            "https://beautysociety.blob.core.windows.net/images-prod/2023 - Product Profile - Spanish - Perfect 10.jpg"
+        ],
+        "description": "Fabulous- Medium shade with a neutral undertone\n\nWhat It Is\n\nPerfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.\n\nWhat It Does\n\nWe don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients. Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, & E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.\n\nHow To Use It\n\nApply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.\n\nWho Should Use It\n\nPerfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.\n\n.9 fl oz\n\nIngredients\n\nLiquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\nWater, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).",
+        "descriptionHtml": "<article>\n\n<p><em><strong>Fabulous- Medium shade with a neutral undertone</strong></em></p>\n\n<h2 dir=\"ltr\">What It Is</h2>\n\n<p dir=\"ltr\">Perfect 10 is a buildable medium coverage liquid foundation. This foundation is packed with anti-aging ingredients that will leave your skin looking flawless and feeling flawless. Perfect 10\u2019s formula is breathable and natural looking.</p>\n\n<h2 dir=\"ltr\">What It Does</h2>\n\n<p dir=\"ltr\">We don\u2019t believe in choosing between skincare or cosmetics. This foundation works to even out skin tone, hide imperfections, and nourish the skin with top of the line anti-aging ingredients.\u00a0 Perfect 10\u2019s formula contains age-defying and hydrating ingredients such as Apple Stem Cells, Vitamins A, C, &amp; E, Ceraminds, Co-Q-10, white tea, biotin, bisabolol, and phytosphingosine.</p>\n\n<h2 dir=\"ltr\">How To Use It</h2>\n\n<p dir=\"ltr\">Apply Perfect 10 with your favorite brush, blending bomb or clean hands! Dot foundation over skin. Start at the center of the face and blend outward.</p>\n\n<h2 dir=\"ltr\">Who Should Use It</h2>\n\n<p dir=\"ltr\">Perfect 10 is ideal for anyone looking to even out skin tone or hide imperfections. It can be used by those with normal, oily, dry, maturing, and combination skin. It's suitable for all ages.</p>\n\n<p><strong>.9\u00a0fl oz\n\n\n</strong></p>\n\n<h5><strong>Ingredients\n\n </strong></h5>\n\n<p><strong><strong>Liquid Foundation formulated with 10 Ant-Aging Ingredients and Color Matching technology.\n</strong> <br></strong><br>Water, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Hexylene Glycol, Isononyl Isononanoate, Ethylhexyl Methoxycinnamate, Glycerin, Cetyl PEG / PPG-10/1 Dimethicone, Malus Domestica Fruit Cell Culture Extract (Apple Stem Cells), Disteardimonium Hectorite, Nylon-12, Ascorbyl Palmitate, Bisabolol, Ubiquinone, Hydrogenated Lecithin, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Triethoxycaprylylsilane, Propylene Carbonate, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Lecithin, Sodium Lauroyl Lactylate, Carbomer, Xanthan Gum, PEG-8, Butylene Glycol, Camellia Sinensis Leaf Extract, Disodium EDTA, Sodium Chloride, Caprylyl Glycol, Phenoxyethanol, Isopentyldiol, May Contain (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499).</p>\n\n<p><strong><br><br></strong></p>\n\n</article>",
+        "_key": "688050/1/1/22"
+    }
+]
